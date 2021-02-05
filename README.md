@@ -1,3 +1,4 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/vaulstein/vaulstein/master/wave.gif" width="30px">
 
 I'm Nanlung Temlong and I'm a software developer. 
 
