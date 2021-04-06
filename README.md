@@ -19,6 +19,7 @@ I'm Nanlung Temlong and I'm a software developer.
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Socket.io-informational?style=flat&logo=socketio&logoColor=white&color=2bbc8a)
 
 
 
