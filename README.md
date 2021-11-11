@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/vaulstein/vaulstein/master/wave.gif" width="30px">
 
-I'm Nanlung Temlong and I'm a software developer. 
+I'm Nanlung Temlong and I'm a Software Engineer. 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -22,6 +22,7 @@ I'm Nanlung Temlong and I'm a software developer.
 ![](https://img.shields.io/badge/Tools-Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Socket.io-informational?style=flat&logo=socketio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
