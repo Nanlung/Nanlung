@@ -26,6 +26,7 @@ I'm Nanlung Temlong and I'm a Software Engineer.
 ![](https://img.shields.io/badge/Tools-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Storybook-informational?style=flat&logo=storybook&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
