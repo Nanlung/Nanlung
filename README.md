@@ -18,6 +18,7 @@ I'm Nanlung Temlong and I'm a Software Engineer.
 ![](https://img.shields.io/badge/Code-Node.JS-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React.JS-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Next.JS-informational?style=flat&logo=nextjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Angular.JS-informational?style=flat&logo=angularjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat&logo=redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
