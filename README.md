@@ -1,6 +1,23 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nanlung Temlong
 =======================================================================================================================================
 
+Software Engineer
+-----------------
+
+Results-driven Senior Software Engineer with 8+ years of experience in full-stack development,
+
+system architecture, and performance optimization. Adept at building scalable,
+
+high-performance applications, enhancing observability tools, and designing robust APIs.
+
+Proficient in Python, JavaScript, React, Node.js, and cloud-native technologies, with a deep
+
+passion for improving system resiliency, user experience, and engineering workflows. Skilled in
+
+leading cross-functional teams, fostering collaboration, and implementing agile best practices to
+
+drive efficiency and innovation.
+
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [nanlung.temlong@gmail.com](mailto:nanlung.temlong@gmail.com)
 * 🧠  I'm learning AngularJS & ML
